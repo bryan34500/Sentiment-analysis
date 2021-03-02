@@ -4,10 +4,8 @@
 
 # Sentiment-analysis
 
-The task is to train a sentiment analysis model that can assign the sentiment (positive or negative) to any given sentence. Provided is a human-annotated dataset of sentences along with their sentiment. 
-
-# Task
+## Task
 Predict whether the sentiment of a given sentence is either **positive** or **negative**.
 
-# Data 
+## Data 
 A human-annotated dataset of sentences along with their sentiment. 
